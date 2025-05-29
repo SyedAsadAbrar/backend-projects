@@ -1,6 +1,6 @@
 # 📝 [Task CLI](https://roadmap.sh/projects/task-tracker)
 
-A simple command-line task manager built with Node.js and TypeScript. It stores tasks in a `tasks.json` file and allows you to add, update, delete, and view tasks.
+A simple command-line task manager built with Node.js and TypeScript. It stores tasks in a `tasks.json` file and allows you to add, update, delete, and view tasks. This was done as part of the [task-tracker project](https://roadmap.sh/projects/task-tracker) from [roadmap.sh](https://roadmap.sh).
 
 ---
 
