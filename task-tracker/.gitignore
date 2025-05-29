@@ -26,3 +26,5 @@ yarn-error.log*
 
 # Optional: coverage tools like nyc or vitest
 coverage/
+
+tasks.json
