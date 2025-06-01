@@ -29,3 +29,5 @@ yarn-error.log*
 coverage/
 
 tasks.json
+expenses.txt
+expenses.csv
